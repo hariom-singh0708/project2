@@ -1,3 +1,6 @@
 # New Project
 
-This Project is ctreated from local machine
+This Project is created from local machine
+
+# Name
+Created by Hariom Singh
